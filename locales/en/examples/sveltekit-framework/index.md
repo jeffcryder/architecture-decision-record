@@ -4,9 +4,9 @@
 
 * Status: [proposed, approved, rejected, deprecated]
 
-## Context
+## Contexts
 
-We are building a new web application that requires a scalable and efficient front-end architecture. After conducting a thorough analysis of various front-end frameworks, we have chosen SvelteKit as our preferred framework. 
+We are building a new web application that requires a scalable and efficient front-end architecture. After conducting a thorough analysis of various front-end frameworks, we have chosen SvelteKit as our preferred framework.
 
 ## Decision
 
