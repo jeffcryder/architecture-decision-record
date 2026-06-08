@@ -10,3 +10,4 @@
 * [Decision record template using Planguage](decision-record-template-using-planguage)
 * [Decision record template by Gareth Morgan](decision-record-template-by-gareth-morgan)
 * [Decision record template by GIG Cymru NHS Wales](locales/en/templates/decision-record-template-by-gig-cymru-nhs-wales/)
+* [Decision record template for Important Technical Decisions (ITDs) by Ignacio Larrañaga](decision-record-template-for-important-technical-decisions)

@@ -44,6 +44,7 @@ Templates:
 - [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
 - [Decision record template by Gareth Morgan](locales/en/templates/decision-record-template-by-gareth-morgan/)
 - [Decision record template by GIG Cymru NHS Wales](locales/en/templates/decision-record-template-by-gig-cymru-nhs-wales/)
+- [Decision record template for Important Technical Decisions (ITDs) by Ignacio Larrañaga](locales/en/templates/decision-record-template-for-important-technical-decisions/)
 - [Translations into more languages](locales/)
 
 Examples:
@@ -261,6 +262,8 @@ ADR example templates that we have collected on the net:
 - [ADR template of the Markdown Any Decision Records (MADR) project](locales/en/templates/decision-record-template-of-the-madr-project/) (both simple and elaborate version; the latter emphasizes options and their pros and cons)
 
 - [ADR template using Planguage](locales/en/templates/decision-record-template-using-planguage/) (more quality assurance oriented)
+
+- [Template for Important Technical Decisions (ITDs) by Ignacio Larrañaga](locales/en/templates/decision-record-template-for-important-technical-decisions/) (lean and decision-first, optimized for fast executive review)
 
 <div class="include" data-path="locales/en/documents/teamwork-advice-for-adrs">
 
@@ -507,6 +510,8 @@ Tools:
 - [Architectural Design Decision Support Framework (ADvISE)](https://swa.univie.ac.at/Software_Architecture/research-projects/architectural-design-decision-support-framework-advise/)
 
 - [Decision Guardian](https://github.com/DecispherHQ/decision-guardian)
+
+- [Mneme HQ - ADR enforcement for AI coding agents](https://github.com/TheoV823/mneme)
 
 Company-Specific Guidance:
 

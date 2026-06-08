@@ -28,5 +28,5 @@ This is the architecture decision description template published in ["Architectu
 
 * **Related principles**: If the enterprise has an agreed-upon set of principles, make sure the decision is consistent with one or more of them. This helps ensure alignment along domains or systems.
 
-* **Notes**:  Because the decision-making process can take weeks, we’ve found it useful to capture notes and issues that the team discusses during the socialization process.
+* **Notes**: Because the decision-making process can take weeks, we’ve found it useful to capture notes and issues that the team discusses during the socialization process.
 
